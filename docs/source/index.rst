@@ -1,22 +1,8 @@
-Welcome to Lumache's documentation!
+Welcome to Bitcoin Jungle!
 ===================================
-
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Si quiere leer la documentación en español, presiona aquí: <https://bitcoin-jungle.readthedocs.io/es/latest/>.
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+**Bitcoin Jungle** (/lu'make/) is a Bitcoin wallet built specifically for Costa Rica. 
